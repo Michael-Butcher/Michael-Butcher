@@ -3,7 +3,7 @@ I work as a Journeyman Commercial Electrician in Phoenix, Arizona. I am studying
 been fun, exciting and challenging! I am trying to grow and learn something new everyday.
 
 
-WHAT I'M FOCUSING ON:
+🌱 I’m currently learning:
 I am currently working with the ARIMA Model and improving my Analytics/ML skills.
 
 
