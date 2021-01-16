@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 my name is Michael Butcher,
+I work as a Journeyman Commercial Electrician in Phoenix, Arizona. I am studying Data Science and so far my journey has
+been fun, exciting and challenging! I am trying to grow and learn something new everyday.
+
+
+WHAT I'M FOCUSING ON:
+I am currently working with the ARIMA Model and improving my Analytics/ML skills.
+
+
+📫 How to reach me: [https://www.linkedin.com]
 
 <!--
 **Michael-Butcher/Michael-Butcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
