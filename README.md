@@ -7,7 +7,7 @@ been fun, exciting and challenging! I am trying to grow and learn something new 
 I am currently working with the ARIMA Model and improving my Analytics/ML skills.
 
 
-📫 How to reach me: linkedin.com/in/michael-butcher-29657690
+📫 How to reach me: https://www.linkedin.com/in/michael-butcher-29657690
 
 <!--
 **Michael-Butcher/Michael-Butcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
