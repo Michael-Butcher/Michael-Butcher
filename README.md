@@ -4,7 +4,7 @@ been fun, exciting and challenging! I am trying to grow and learn something new 
 
 
 🌱 I’m currently learning:
-I am currently working with the ARIMA Model and improving my Analytics/ML skills.
+I am currently working with the ARIMA Model, Supervised Machine Learning and many other models. I am constantly improving my Analytics/ML skills.
 
 
 📫 How to reach me: https://www.linkedin.com/in/michael-butcher-29657690
